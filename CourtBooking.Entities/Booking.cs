@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CourtBooking.Entities
 {
-    class Entities
+    public class Booking
     {
         public int Id { get; set; }
         public int Courtnumber { get; set; }
